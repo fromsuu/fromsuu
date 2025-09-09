@@ -54,10 +54,3 @@
       </tr>
     </table>
 </div>
-
-
-<br>
-
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=fromsuu&show_icons=true&theme=tokyonight&hide_border=true&title_color=79ff97&icon_color=79ff97" alt="fromsuu's github stats"/>
-</div>
